@@ -30,3 +30,14 @@ Repositorio Maven
         <version>2.10.1</version>
     </dependency>
 
+---
+
+## API utilizada ExchangeRate-API
+
+La API de Tipo de Cambio Precisa y Confiable
+
+    https://www.exchangerate-api.com/
+
+## Mostrar información
+
+Para mostrar el resultado de la conversión se utiliza JOptionPane en lugar de la consola.
