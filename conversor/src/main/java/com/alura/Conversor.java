@@ -1,5 +1,6 @@
 package com.alura;
 
+/* Usa JsonParser y JsonObject */
 import javax.swing.JOptionPane;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
@@ -150,6 +151,8 @@ public class Conversor {
 }
 
 
+
+/*  No usa JsonParser */
 /*
 import javax.swing.JOptionPane;
 import com.google.gson.Gson;
