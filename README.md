@@ -16,7 +16,6 @@ Repositorio Maven
 
 *Se agrego la depencia gson*
 
-  <!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
   <dependency>
       <groupId>com.google.code.gson</groupId>
       <artifactId>gson</artifactId>
