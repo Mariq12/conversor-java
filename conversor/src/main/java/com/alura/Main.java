@@ -1,5 +1,16 @@
 package com.alura;
 
+public class Main {
+
+    public static void main(String[] args) {
+        Conversor conversor = new Conversor();
+        conversor.startCurrencyConverter();
+    }
+}
+
+// USD a ARS = 864.7500 ARS
+
+/*/
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import java.io.IOException;
@@ -79,3 +90,4 @@ public class Main {
         }
     }
 }
+*/
