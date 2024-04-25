@@ -20,7 +20,9 @@ Java - Configurar Visual Studio Code y Maven
 
 Repositorio Maven
 
-  https://mvnrepository.com/artifact/com.google.code.gson/gson/2.10.1
+    https://mvnrepository.com/artifact/com.google.code.gson/gson/2.10.1
+    
+---
 
 *Se agrego la depencia gson*
 
