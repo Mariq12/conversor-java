@@ -18,12 +18,12 @@ public class Conversor {
     private static final Map<String, String> monedas = new HashMap<>();
 
     static {
-        monedas.put("ARS", "Peso argentino (ARS)");
-        monedas.put("BOB", "Boliviano boliviano (BOB)");
-        monedas.put("BRL", "Real brasileño (BRL)");
-        monedas.put("CLP", "Peso chileno (CLP)");
-        monedas.put("COP", "Peso colombiano (COP)");
-        monedas.put("USD", "Dólar estadounidense (USD)");
+        monedas.put("ARS", "Peso argentino");
+        monedas.put("BOB", "Boliviano boliviano");
+        monedas.put("BRL", "Real brasileño");
+        monedas.put("CLP", "Peso chileno");
+        monedas.put("COP", "Peso colombiano");
+        monedas.put("USD", "Dólar estadounidense");
     }
 
     public void startCurrencyConverter() {
